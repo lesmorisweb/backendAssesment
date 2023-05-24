@@ -1,0 +1,6 @@
+.idea
+.env
+node_modules
+.code
+Requeriments.txt
+application.log
